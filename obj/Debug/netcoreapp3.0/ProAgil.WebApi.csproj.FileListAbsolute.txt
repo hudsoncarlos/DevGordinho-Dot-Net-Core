@@ -17,3 +17,23 @@ C:\CURSOS\DotNet Core\DOTNETCORE\ProAgil.WebApi\obj\Debug\netcoreapp3.0\ProAgil.
 C:\CURSOS\DotNet Core\DOTNETCORE\ProAgil.WebApi\obj\Debug\netcoreapp3.0\ProAgil.WebApi.RazorTargetAssemblyInfo.cache
 C:\CURSOS\DotNet Core\DOTNETCORE\ProAgil.WebApi\obj\Debug\netcoreapp3.0\ProAgil.WebApi.dll
 C:\CURSOS\DotNet Core\DOTNETCORE\ProAgil.WebApi\obj\Debug\netcoreapp3.0\ProAgil.WebApi.pdb
+C:\Users\Hudson\source\repos\DOTNETCORE\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Hudson\source\repos\DOTNETCORE\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Hudson\source\repos\DOTNETCORE\bin\Debug\netcoreapp3.0\ProAgil.WebApi.exe
+C:\Users\Hudson\source\repos\DOTNETCORE\bin\Debug\netcoreapp3.0\ProAgil.WebApi.deps.json
+C:\Users\Hudson\source\repos\DOTNETCORE\bin\Debug\netcoreapp3.0\ProAgil.WebApi.runtimeconfig.json
+C:\Users\Hudson\source\repos\DOTNETCORE\bin\Debug\netcoreapp3.0\ProAgil.WebApi.runtimeconfig.dev.json
+C:\Users\Hudson\source\repos\DOTNETCORE\bin\Debug\netcoreapp3.0\ProAgil.WebApi.dll
+C:\Users\Hudson\source\repos\DOTNETCORE\bin\Debug\netcoreapp3.0\ProAgil.WebApi.pdb
+C:\Users\Hudson\source\repos\DOTNETCORE\obj\Debug\netcoreapp3.0\ProAgil.WebApi.csprojAssemblyReference.cache
+C:\Users\Hudson\source\repos\DOTNETCORE\obj\Debug\netcoreapp3.0\ProAgil.WebApi.AssemblyInfoInputs.cache
+C:\Users\Hudson\source\repos\DOTNETCORE\obj\Debug\netcoreapp3.0\ProAgil.WebApi.AssemblyInfo.cs
+C:\Users\Hudson\source\repos\DOTNETCORE\obj\Debug\netcoreapp3.0\ProAgil.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Hudson\source\repos\DOTNETCORE\obj\Debug\netcoreapp3.0\ProAgil.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hudson\source\repos\DOTNETCORE\obj\Debug\netcoreapp3.0\staticwebassets\ProAgil.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\Hudson\source\repos\DOTNETCORE\obj\Debug\netcoreapp3.0\staticwebassets\ProAgil.WebApi.StaticWebAssets.xml
+C:\Users\Hudson\source\repos\DOTNETCORE\obj\Debug\netcoreapp3.0\scopedcss\bundle\ProAgil.WebApi.styles.css
+C:\Users\Hudson\source\repos\DOTNETCORE\obj\Debug\netcoreapp3.0\ProAgil.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Hudson\source\repos\DOTNETCORE\obj\Debug\netcoreapp3.0\ProAgil.WebApi.dll
+C:\Users\Hudson\source\repos\DOTNETCORE\obj\Debug\netcoreapp3.0\ProAgil.WebApi.pdb
+C:\Users\Hudson\source\repos\DOTNETCORE\obj\Debug\netcoreapp3.0\ProAgil.WebApi.genruntimeconfig.cache
